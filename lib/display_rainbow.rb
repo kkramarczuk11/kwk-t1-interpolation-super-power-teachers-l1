@@ -3,4 +3,4 @@ display_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo", "violet
 def display_rainbow
   puts "R: #{display_rainbow[0]}"
 end
-rainbow
+display_rainbow
